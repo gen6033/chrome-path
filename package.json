@@ -1,0 +1,15 @@
+{
+  "name": "@gen6033/chrome-path",
+  "version": "0.0.1",
+  "description": "Getting chrome/chromium paths",
+  "repository": "gen6033/chrome-path",
+  "keywords": ["chrome", "chromium", "canary", "path"],
+  "author": {
+    "name": "gen6033",
+    "email": "none.null.nil@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies":{},
+  "devDependencies":{}
+}
