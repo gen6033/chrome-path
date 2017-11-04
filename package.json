@@ -2,14 +2,23 @@
   "name": "@gen6033/chrome-path",
   "version": "0.0.1",
   "description": "Getting chrome/chromium paths",
-  "repository": "gen6033/chrome-path",
-  "keywords": ["chrome", "chromium", "canary", "path"],
-  "author": {
-    "name": "gen6033",
-    "email": "none.null.nil@gmail.com"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gen6033/chrome-path.git"
   },
+  "keywords": [
+    "chrome",
+    "chromium",
+    "canary",
+    "path"
+  ],
+  "author": "gen6033 <none.null.nil@gmail.com>",
   "license": "MIT",
   "main": "index.js",
-  "dependencies":{},
-  "devDependencies":{}
+  "dependencies": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/gen6033/chrome-path/issues"
+  },
+  "homepage": "https://github.com/gen6033/chrome-path#readme"
 }
